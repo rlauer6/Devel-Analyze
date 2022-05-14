@@ -1,0 +1,10 @@
+Fri May 13 21:20:11 2022  Rob Lauer  <rlauer6@comcast.net>
+
+	[Big Bang]:
+	* README.md: new
+	* ChangeLog: new
+	* Makefile: new
+	* lib/Devel/Analyze.pm: new
+	* lib/Devel/Analyze/Constants.pm: new
+	* requires: new
+
